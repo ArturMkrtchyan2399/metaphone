@@ -10,7 +10,6 @@
 ## Install
 
 This package is [ESM only](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c):
-Node 12+ is n![face](https://github.com/user-attachments/assets/3d738d06-8ad2-4a04-bdd3-cf57fc6b56ec)
 eeded to use it and it must be `import`ed instead of `require`d.
 
 [npm][]:
