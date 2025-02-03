@@ -6,6 +6,7 @@
 [![Size][size-badge]][size]
 
 [Metaphone algorithm][source].
+![face](https://github.com/user-attachments/assets/cf1044b5-5573-45e8-a691-64d898457ae2)
 
 ## Install
 
